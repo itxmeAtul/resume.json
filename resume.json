@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "name": "Atul More",
+    "label": "Software Developer",
+    "image": "https://avatars.githubusercontent.com/u/69724654?s=400&u=4fe394658b095b5972e8638a8ccc308d40d2b20d&v=4",
+    "email": "morea0624@gmail.com",
+    "phone": "+91 7977910033",
+    "url": null,
+    "summary": "2+ years of experience in Software Development. \n    \nDeveloped User Interface (UI) applications and professional web applications using HTML,CSS3, Bootstrap, JavaScript, Node JS, React JS, Express JS, Mongo DB, NPM, GIT, JSON.\n    \nWorked in software methodologies such as Agile. \n    \nExperience in building applications using React.JS, Node.JS, Express.JS.",
+    "location": {
+      "city": "Mumbai",
+      "region": "INDIA",
+      "countryCode": "",
+      "postalCode": "400058"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "itxmeAtul",
+        "url": "https://github.com/itxmeAtul"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/atul-more-520548209/",
+        "username": "atul-more-520548209"
+      }
+    ],
+    "headline": "",
+    "blog": null,
+    "yearsOfExperience": 2,
+    "username": null,
+    "locationAsString": "India",
+    "region": "India",
+    "picture": "https://avatars.githubusercontent.com/u/69724654?s=400&u=4fe394658b095b5972e8638a8ccc308d40d2b20d&v=4",
+    "website": null
+  },
+  "skills": [
+    {
+      "name": "Back End",
+      "level": "Intermediate",
+      "keywords": ["Node.js", "Express.js"],
+      "rating": 4,
+      "yearsOfExperience": 2
+    },
+    {
+      "name": "Front End",
+      "level": "Advance",
+      "keywords": ["ReactJS", "JavaScript", "Bootstrap", "HTML", "CSS"],
+      "rating": 3,
+      "yearsOfExperience": 2
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": ["Mysql", "MongoDB"],
+      "rating": 4,
+      "yearsOfExperience": 1
+    },
+    {
+      "name": "Tools",
+      "level": "Advanced",
+      "keywords": ["VS Code", "Postman", "GitHub", "NPM", "WebPack"],
+      "rating": 4,
+      "yearsOfExperience": 2
+    }
+  ],
+  "projects": [],
+  "work": [
+    {
+      "name": "Skyelint Infotech Pvt. Ltd",
+      "location": "Mumbai, India",
+      "description": "",
+      "position": "Software Developer",
+      "url": "https://www.skyelint-infotech.com/",
+      "startDate": "2019-10-01",
+      "endDate": null,
+      "summary": "Roles & Responsibilities",
+      "highlights": [
+        "Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases.",
+        "Implemented the web application using technologies ( MongoDB, Express,  Node.js ) along with HTML5, CSS3, JavaScript, Bootstrap and other web technologies.",
+        "Developed various screens for the front end using ReactJS and used various predefined components from NPM",
+        "Worked with Node.js, Express to develop RESTful API's consumed in front end applications.",
+        "Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.",
+        "Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements.\n\nInteracted with Testing Team for Fixing of Issues."
+      ],
+      "isCurrentRole": true,
+      "start": {
+        "year": 2019,
+        "month": 10
+      },
+      "end": {
+        "year": null,
+        "month": null
+      },
+      "company": "Skyelint Infotech Pvt. Ltd",
+      "website": "https://www.skyelint-infotech.com/"
+    }
+  ],
+  "publications": [],
+  "education": [
+    {
+      "institution": "Valia College of Arts,Commerce And Science, Mumbai",
+      "url": "https://valiacollege.co.in/",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-07-01",
+      "endDate": "2019-05-30",
+      "score": "7.02 CGPA",
+      "courses": [],
+      "description": "Graduated with 7.02 CGPA.",
+      "activities": "",
+      "start": {
+        "year": 2016,
+        "month": 6
+      },
+      "end": {
+        "year": 2019,
+        "month": 5
+      },
+      "website": "https://valiacollege.co.in/",
+      "gpa": "7.02 CGPA"
+    },
+
+    {
+      "institution": "Valia College of Arts, Commerce and Science, Mumbai",
+      "area": "Mathematics",
+      "studyType": "Higher Secondary School Certificate Examination (HSC) - 12th",
+      "startDate": "2014-07-01",
+      "endDate": "2016-03-01",
+      "score": "62%",
+      "courses": [],
+      "description": "Graduated with 62 %",
+      "activities": "",
+      "start": {
+        "year": 2014,
+        "month": 7
+      },
+      "end": {
+        "year": 2016,
+        "month": 6
+      },
+      "website": "",
+      "gpa": "62 %"
+    },
+    {
+      "institution": "Cosmopolitan Barfiwala High School, Mumbai",
+      "area": "All Subjects",
+      "studyType": "High School Certificate Examination (HSC) - 10th",
+      "startDate": "2004-06-15",
+      "endDate": "2014-03-31",
+      "score": "55 %",
+      "courses": [],
+      "description": "Graduated with 55 %",
+      "activities": "",
+      "start": {
+        "year": 2004,
+        "month": 6
+      },
+      "end": {
+        "year": 2014,
+        "month": 5
+      },
+      "website": "",
+      "gpa": "55 %"
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": []
+    },
+    {
+      "name": "Video Games",
+      "keywords": []
+    }
+  ]
+}
